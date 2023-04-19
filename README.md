@@ -30,3 +30,4 @@ The data are MC generated (see below) to simulate registration of high energy ga
 
 ## Convergence Graph
 
+![alt-text](gurnoor.png)
